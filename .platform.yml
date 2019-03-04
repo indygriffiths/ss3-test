@@ -1,3 +1,5 @@
+http_settings:
+  max_upload_size: "128"
 php_settings:
   version: 7.1
 clamav: {}
