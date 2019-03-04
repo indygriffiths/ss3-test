@@ -1,0 +1,6 @@
+---
+Name: steamedclams
+---
+File:
+  extensions:
+    ['Symbiote\SteamedClams\ClamAVExtension']
